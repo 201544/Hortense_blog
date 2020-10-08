@@ -1,5 +1,5 @@
 ---
-title: "Le blog à Tati Horty"
+title: "Le blog à Horty"
 site: distill::distill_website
 listing: posts
 ---
