@@ -1,6 +1,6 @@
 ---
 title: "My English Activity Log : MEAL"
-author:
+author: 
   - name: "___" 
 date: "`r Sys.Date()`"
 categories:
@@ -8,6 +8,7 @@ categories:
   - "M.E.A.L."
 output: distill::distill_article
 ---
+
 
 
 Here are a few examples (some of them are based on examples I've read on blogs so far):

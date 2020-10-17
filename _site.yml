@@ -6,12 +6,12 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "M.E.A.L."
-      href: "posts/meal/index.html"
-    - text: "About Me"
-      href: "posts/about/index.html"
+      href: meal.html
+    - text:" About Me"
+      href: about.html
     - icon: fab fa-github
-      href: https://github.com/201544/Hortense_blog.git
-base_url: 201544.github.io/hortense_blog/
+      href: https://github.com/Hortense-Couvreur/hortense_blog/ 
+base_url: Hortense-Couvreur.github.io/hortense_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]

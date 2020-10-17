@@ -1,10 +1,9 @@
 ---
-title: "Le blog à Horty"
+title: "Horty's blog"
 site: distill::distill_website
 listing: posts
 ---
 
-```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
-```
 
+#distill::create_post("MEAL")#
