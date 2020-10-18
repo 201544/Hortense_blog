@@ -1,9 +1,16 @@
 ---
-title: "Horty's blog"
+title: "List of posts:"
 site: distill::distill_website
 listing: posts
 ---
+  
+.  
+  
+# Front page
+Coucou les ptites perrruches :3
 
-#distill::create_post("my post") # use this fonction to create a new post
 
-#distill::create_post("MEAL")#
+
+<!---
+distill::create_post("my post") # use this fonction to create a new post
+--->

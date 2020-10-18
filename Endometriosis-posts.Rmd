@@ -1,0 +1,9 @@
+---
+title: 'Endometriosis posts:'
+site: distill::distill_website
+listing:
+  posts: 
+     - 2019-10-24-bacteria-antobiotics
+     - 2020-10-18-no-cure-diagnosis
+---
+

@@ -1,11 +1,11 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Hortense Couvreur" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Wesh les potos, mama horty est dans la street, tu connais <3
 
 - first name/surname, teacher’s name, class name and academic year

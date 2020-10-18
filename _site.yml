@@ -1,14 +1,18 @@
-name: "blog-template"
+name: "Horty-template"
 title: "Hortense's Blog"
 output_dir: "docs"
 navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "M.E.A.L."
-      href: meal.html
-    - text:" About Me"
-      href: about.html
+    - text: " About Me"
+      href: "posts/about/index.html"
+    - text: "Sexions"
+      menu:
+      - text: "M.E.A.L."
+        href: "posts/meal/index.html"
+      - text: "Endometriosis studies"
+        href: Endometriosis-posts.html
     - icon: fab fa-github
       href: https://github.com/Hortense-Couvreur/hortense_blog/ 
 base_url: Hortense-Couvreur.github.io/hortense_blog/

@@ -1,0 +1,43 @@
+---
+title: "No cure-Diagnosis"
+description: |
+  
+author:
+  - name: Hortense Couvreur
+    url: {}
+date: 10-18-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**I. Source of the article**
+
+URL : [link](https://www.sciencedaily.com/releases/2020/09/200908101631.htm)
+
+Date : September 8, 2020
+
+Word count : 650
+
+**II. Vocabulary**
+
+| *Word from the text* | *Synonym/definition in English* | *French translation*              |   |   |
+|----------------------|---------------------------------|-----------------------------------|---|---|
+| Laparoscopy          | Surgical procedure              | Laparoscopie, examen de l'abdomen |   |   |
+| Whether              | If                              | Si                                |   |   |
+| A surgeon            | Doctor performs surgery         | Chirurgien                        |   |   |
+| The bladder          | Urinary sac                     | La vessie                         |   |   |
+| The bowel            | The intestine                   | L'intestin                        |   |   |
+| To be reluctant      | To be hesitante                 | Etre hésitant                     |   |   |
+**III. Analysis tale about the study**
+
+| Researchers?               | Alison Deslandes, researcher at University of South Australia                                                                                                                                                                                                                                                                                                                                                  |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When ?      | Journal of Ultrasound of Medicine, 8 september 2020                                                                                                                                                                                                                                                                                                                                                            |
+| Procedure/What is examined | Problem with laparoscopic surgery   Consequences and type of endometriosis   New type of diagnosis to avoid surgery                                                                                                                                                                                                                                                                                            |
+| Conclusion/Discovery       | - No real to diagnose endometriosis - 3 types : peritoneal, ovarian, deep infiltrating endometriosis - Laparoscopic surgery : invasive procedure - New : transvaginal ultrasound but only with specialist surgeoon - Consequences : pain during periods, having sex, passing urine - What is : endometrial tissue grows outside of the uterus => legions on the ovaries, pelvis, bowel - No cure - Taboo topic |
+| Remaining questions        | /                                                                                                                                                                                                                                                                                                                                                                                                              |

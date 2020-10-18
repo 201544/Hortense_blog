@@ -10,7 +10,6 @@ output: distill::distill_article
 ---
 
 
-
 Here are a few examples (some of them are based on examples I've read on blogs so far):
 
 - Sept. 25th: I downloaded the 'BBC News' App on my phone. I've started reading/watching the news on the train for 15 min.
