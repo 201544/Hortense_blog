@@ -7,7 +7,7 @@ listing: posts
 .  
   
 # Front page
-Coucou les ptites perrruches :3
+Hello little budgie :3
 
 
 
