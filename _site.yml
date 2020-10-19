@@ -7,7 +7,7 @@ navbar:
       href: index.html
     - text: " About Me"
       href: "posts/about/index.html"
-    - text: "Sexions"
+    - text: "Sections"
       menu:
       - text: "M.E.A.L."
         href: "posts/meal/index.html"

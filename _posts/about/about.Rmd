@@ -6,6 +6,6 @@ date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-Wesh les potos, mama horty est dans la street, tu connais <3
+
 
 - first name/surname, teacher’s name, class name and academic year
