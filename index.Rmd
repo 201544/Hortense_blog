@@ -6,7 +6,8 @@ listing: posts
   
 .  
   
-# Front page
+# Homepage
+
 Hello little budgie :3
 
 
