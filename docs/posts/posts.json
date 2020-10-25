@@ -33,23 +33,6 @@
     "last_modified": "2020-10-24T11:31:47+02:00"
   },
   {
-    "path": "posts/2019-10-24-bacteria-antobiotics/",
-    "title": "Ola",
-    "description": {},
-    "author": [
-      {
-        "name": "Hortense Couvreur",
-        "url": {}
-      }
-    ],
-    "date": "2020-10-18",
-    "categories": [
-      "English for Science"
-    ],
-    "preview": {},
-    "last_modified": "2020-10-18T16:53:09+02:00"
-  },
-  {
     "path": "posts/2020-10-18-no-cure-diagnosis/",
     "title": "No cure-Diagnosis",
     "description": {},
@@ -62,6 +45,6 @@
     "date": "2020-10-18",
     "categories": [],
     "preview": {},
-    "last_modified": "2020-10-18T19:15:07+02:00"
+    "last_modified": "2020-10-25T09:52:41+01:00"
   }
 ]
