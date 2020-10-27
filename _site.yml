@@ -19,7 +19,7 @@ base_url: Hortense-Couvreur.github.io/hortense_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus: hortense-blog
+      disqus: hortense-blog
 output:
   distill::distill_article:
     css: style.css
