@@ -15,7 +15,7 @@ navbar:
         href: Endometriosis-posts.html
     - icon: fab fa-github
       href: https://github.com/Hortense-Couvreur/hortense_blog/ 
-base_url: Hortense-Couvreur.github.io/hortense_blog/
+base_url: http://Hortense-Couvreur.github.io/hortense_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]

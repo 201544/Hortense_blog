@@ -1,23 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" version="1.0">
   <url>
-    <loc>Hortense-Couvreur.github.io/hortense_blog/Endometriosis-posts.html</loc>
-    <lastmod>2020-10-28T18:24:51+01:00</lastmod>
+    <loc>http://Hortense-Couvreur.github.io/hortense_blog/Endometriosis-posts.html</loc>
+    <lastmod>2020-11-04T14:40:37+01:00</lastmod>
   </url>
   <url>
-    <loc>Hortense-Couvreur.github.io/hortense_blog/</loc>
+    <loc>http://Hortense-Couvreur.github.io/hortense_blog/</loc>
     <lastmod>2020-10-25T09:49:49+01:00</lastmod>
   </url>
   <url>
-    <loc>Hortense-Couvreur.github.io/hortense_blog/posts/about/</loc>
+    <loc>http://Hortense-Couvreur.github.io/hortense_blog/posts/2020-11-04-Article2/</loc>
+    <lastmod>2020-11-04T14:39:58+01:00</lastmod>
+  </url>
+  <url>
+    <loc>http://Hortense-Couvreur.github.io/hortense_blog/posts/about/</loc>
     <lastmod>2020-10-24T11:09:56+02:00</lastmod>
   </url>
   <url>
-    <loc>Hortense-Couvreur.github.io/hortense_blog/posts/meal/</loc>
+    <loc>http://Hortense-Couvreur.github.io/hortense_blog/posts/meal/</loc>
     <lastmod>2020-10-24T11:31:47+02:00</lastmod>
   </url>
   <url>
-    <loc>Hortense-Couvreur.github.io/hortense_blog/posts/2020-10-18-no-cure-diagnosis/</loc>
-    <lastmod>2020-10-28T18:24:20+01:00</lastmod>
+    <loc>http://Hortense-Couvreur.github.io/hortense_blog/posts/2020-10-18-no-cure-diagnosis/</loc>
+    <lastmod>2020-11-03T15:30:31+01:00</lastmod>
   </url>
 </urlset>

@@ -1,0 +1,45 @@
+---
+title: "Article 2 : Australian women with endometriosis face six-year wait for diagnosis, study finds "
+description: |
+  
+author:
+  - name: Hortense Couvreur
+    url: {}
+date: 11-04-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**I. Source of the article**
+
+URL : [link](https://www.theguardian.com/australia-news/2020/oct/22/australian-women-with-endometriosis-face-six-year-wait-for-diagnosis-study-finds)
+
+Date : October 22, 2020
+
+Word count : 600
+
+**II. Vocabulary**
+
+| *Word from the text* | *Synonym/definition in English* | *French translation*             |
+|----------------------|---------------------------------|----------------------------------|
+| To undergo surgery   | An operation on something       | Se faire opérer de quelque chose |
+| Prior to             | Before something                | Avant                            |
+| Further              | More extended                   | Plus approfondi                  |
+| To rule out          | To eliminate, to exclude        | Ecarter, exclure                 |
+| The inquiry          | Formal investigation            | Enquête                          |
+
+**III. Analysis tale about the study**
+
+| Researchers ?                |  Dr Beck O'Hara from Monash University's school of public health and preventive medecine                                                                                                                                                                                                         |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When ?        | Journal of Psychosomatic Obstetrics and Gynecology                                                                                                                                                                                                                                               |
+| General topic                | Very long time before having a diagnosis                                                                                                                                                                                                                                                         |
+| Procedure/ What was examined | * Disease experience and management of women with endometriosis * Provenance of the delay  * What the government want                                                                                                                                                                            |
+| Conclusions/Discovery        | * 2 levels in the delay : because of the patient and of the practitioner * National action plan * 1 in 10 womend affected  * Consequences : inflammation, pain, fatigue and sometimes infertility * If good program found -> more specialist services  * Recommendation : reduce diagnosis time  |
+| Remaining questions          | /                                                                                                                                                                                                                                                                                                |
+
