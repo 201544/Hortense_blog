@@ -1,5 +1,39 @@
 [
   {
+    "path": "posts/2020-11-23-Article3/",
+    "title": "Article 3 : Endometriosis showed me we need better ways to talk about women's pain ",
+    "description": {},
+    "author": [
+      {
+        "name": "Hortense Couvreur",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-23",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-11-09T19:03:50+01:00"
+  },
+  {
+    "path": "posts/2020-11-10-graphicdescription/",
+    "title": "graphic_description",
+    "description": "I decided to use data about urchin. Different things have been observed like weight, height, integuments, skeleton, digestive tract,... There are two classes ; farm urchin and fishery urchin. A short description of the post.",
+    "author": [
+      {
+        "name": "Hortense Couvreur",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-10",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": "posts/2020-11-10-graphicdescription/graphicdescription_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2020-11-14T11:13:48+01:00",
+    "preview_width": 1248,
+    "preview_height": 768
+  },
+  {
     "path": "posts/meal/",
     "title": "My English Activity Log : MEAL",
     "description": {},
