@@ -1,0 +1,43 @@
+---
+title: "Article 4 : Doctors propose ways to reduce obstetrical complications in women with endometriosis"
+description: |
+  
+author:
+  - name: Hortense Couvreur
+    url: {}
+date: 12-03-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**I. Source of the article**
+
+URL : [link](https://www.news-medical.net/news/20201015/Doctors-propose-ways-to-reduce-obstetrical-complications-in-women-with-endometriosis.aspx)
+
+Date : October 15, 2020
+
+Word count : 596
+
+**II. Vocabulary**
+
+| *Word from the text* | *Synonym/definition in English* | *French translation* |
+|----------------------|---------------------------------|----------------------|
+| Thicker              | More viscous                    | Plus épais           |
+| Ova                  | Egg released by an ovary        | Un ovule             |
+| To shed something    | Birth of dead baby              | Mort à la naissance  |
+| Namely               | Specifically                    | A savoir             |
+
+**III. Analysis tale about the study**
+
+| Researchers ?                | Team of doctors from RUDN University                                                                                                                   |
+|------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When ?        | The journal of maternal-Fetal & Neonatal Medicine June 23, 2020                                                                                        |
+| General topic                | Reduce obstetrical complications in women with endometriosis                                                                                           |
+| Procedure/ What was examined | Analysis of earlier studies Study on the effect of endometriosis on pregnancy and childbirth Want to reduce obstetrical complications for theses women |
+| Conclusions/Discovery        |                                                                                                                                                        |
+| Remaining questions          | /                                                                                                                                                      |
