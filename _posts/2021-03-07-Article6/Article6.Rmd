@@ -1,0 +1,46 @@
+---
+title: "Article 6 : Endometriosis inquiry underlines NI wainting times"
+description: |
+  
+author:
+  - name: Hortense Couvreur
+    url: {}
+date: 03-06-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+**I. Source of the article**
+
+URL : [link](https://www.bbc.com/news/uk-northern-ireland-54593385)
+
+Date : October 19, 2020
+
+Word count : 790
+
+**II. Vocabulary**
+
+| **Word from the text** | **Synonym/definition in English**                                                 | **French translation** |
+|------------------------|-----------------------------------------------------------------------------------|------------------------|
+| An improvement         | Amelioration, advancement                                                         | Une amélioration       |
+| A bladder              | An organ in the body that is hsaped like a bag and may hold or liquid, especially | La vessie              |
+| The bowel              | The intestine                                                                     | L'intestin             |
+| To downplay            | To treat something so as to reduce emphasis on its importance, value              | Minimiser              |
+| An inpatient           | A patient who stays in a hospital                                                 | En hospitalisation     |
+| An assessment          | An evaluation, an analysis                                                        | L'examen               |
+| To be neglected        | To be ignored/ disregarded                                                        | Etre négligé           |
+| A relief               | The ending or lesseningof pain, distress, worry,  fear                            | Un soulagement         |
+**III. Analysis table about the study**
+
+| Autor ?                     | Lesley-Anne McKeown                                                                                                                                                                                                                    |
+|-----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Published in ? When ?       | BBC News NI                                                                                                                                                                                                                            |
+| General topic               | Delay to have an appointment for laporoscopy                                                                                                                                                                                           |
+| Procedure/what was examined | The number of women who need a laporoscopy has more than doubled in the last year. Any amelioration in the diagnosis for a long time. There are not enough specialists. Some women have to travel abroad to find one. Not acceptable.  |
+| Conclusions/discovery       | Endometriosis is downplayed.  It affects people physically and mentally. Women are worrying about future : fertility, children                                                                                                         |
+| Remaining questions         | /                                                                                                                                                                                                                                      |

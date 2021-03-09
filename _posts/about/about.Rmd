@@ -7,5 +7,9 @@ output: distill::distill_article
 ---
 
 
+Hortense Couvreur - BAC2 Biology 
 
-- first name/surname, teacher’s name, class name and academic year
+
+Mr Devilez - 2020/2021
+
+
