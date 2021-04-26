@@ -15,6 +15,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+image: ![](2020-11-04-Article2/Article2_files/article2.png)
+
+
 **I. Source of the article**
 
 URL : [link](https://www.theguardian.com/australia-news/2020/oct/22/australian-women-with-endometriosis-face-six-year-wait-for-diagnosis-study-finds)

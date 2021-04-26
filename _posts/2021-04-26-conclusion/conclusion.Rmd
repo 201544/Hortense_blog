@@ -1,0 +1,19 @@
+---
+title: "Conclusion"
+description: |
+  
+author:
+  - name: Hortense Couvreur
+    url: {}
+date: 04-26-2021
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
