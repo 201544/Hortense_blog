@@ -1,6 +1,5 @@
 ---
 title: "Conclusion"
-description: |
   
 author:
   - name: Hortense Couvreur
@@ -15,5 +14,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Thanks to this work, I can now give a definition, still a little vague of course, of endometriosis. Endometriosis is a growth of endometrial tissue outside the uterus that affects 1 in 10 women.  As it is a taboo subject, I could not imagine that so many women suffer from it. 
+Women affected by endometriosis suffer every day. Endometriosis causes pain during periods,  sexual intercourse and urination. It also causes inflammation and fatigue (physical and psychological).
+In the most advanced cases, it can cause infertility to women. 
+
+The subject was taboo for a long time because gynaecologists minimised the pain of their patients. This is also why it takes a long time to get a diagnosis. This delay is present on two levels: on the part of the patient and on the part of the gynaecologist. There are not many gynaecologists who are specialised in this disease. Some women have to go abroad to find one. 
+
+Due to COVID 19, the number of people requiring laporoscopy has doubled.
+This endoscopy is used to look at the genitals in this case and give a diagnosis. Unfortunately, it has negative effects. 
 
 

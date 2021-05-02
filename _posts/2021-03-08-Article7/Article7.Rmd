@@ -1,6 +1,6 @@
 ---
 title: "Article 7 : Women in 20s told 'get pregnant' to ease endometriosis symptoms "
-description: |
+description: Pregnancy, a way to reduce pain from endometriosis ? 
   
 author:
   - name: Hortense Couvreur
@@ -14,6 +14,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](image/article7.jpeg)
 
 **I. Source of the article**
 

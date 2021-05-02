@@ -1,6 +1,6 @@
 ---
 title: "Article 4 : Doctors propose ways to reduce obstetrical complications in women with endometriosis"
-description: |
+description: Suggestion of different methods to improve pregnant prognosis by doctors from RUDN University.
   
 author:
   - name: Hortense Couvreur
@@ -14,6 +14,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](image/article4.jpeg)
 
 **I. Source of the article**
 

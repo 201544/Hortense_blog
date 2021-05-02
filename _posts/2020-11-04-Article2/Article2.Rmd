@@ -1,6 +1,6 @@
 ---
-title: "Article 2 : Australian women with endometriosis face six-year wait for diagnosis, study finds "
-description: |
+title: "Article 2 : Australian women with endometriosis face six-year wait for diagnosis, study finds. "
+description: The Australian Dream ? 6 years waiting for a diagnosis. 
   
 author:
   - name: Hortense Couvreur
@@ -15,7 +15,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-image: ![](2020-11-04-Article2/Article2_files/article2.png)
+![](article2.png)
 
 
 **I. Source of the article**

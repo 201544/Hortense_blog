@@ -1,6 +1,6 @@
 ---
 title: "Article 1 : Endometriosis: No cure, but diagnosis could avert surgery"
-description: |
+description: Endometriosis affetcs 176 millions women around the world. Almost three times more than women with brest cancer.
   
 author:
   - name: Hortense Couvreur
@@ -14,6 +14,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](article1.jpeg)
 
 **I. Source of the article**
 

@@ -1,7 +1,6 @@
 ---
-title: "Article 5 : Endometriosis : Call to each menstrual wellbeing in Wales"
-description: |
-  
+title: "Article 5 : Endometriosis : Call to teach menstrual wellbeing in Wales"
+description: Awareness of menstrual pain should be raised from early age.
 author:
   - name: Hortense Couvreur
     url: {}
@@ -14,6 +13,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](image/article5.jpeg)
 
 **I. Source of the article**
 

@@ -8,8 +8,6 @@ listing: posts
   
 # Homepage
 
-Hello little budgie :3
-
 
 
 <!---

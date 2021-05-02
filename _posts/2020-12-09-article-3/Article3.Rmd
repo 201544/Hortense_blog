@@ -1,6 +1,6 @@
 ---
 title: "Article 3 : Researchers uncover potential genetic target for treating endometriosis "
-description: |
+description: Researchers at Michigan State University have identified a mutation in the ARID1A gene to treat the most invasive form of endometriosis. 
   
 author:
   - name: Hortense Couvreur
@@ -14,6 +14,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](image/article3.png)
 
 **I. Source of the article**
 

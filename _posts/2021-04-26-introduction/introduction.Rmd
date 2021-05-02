@@ -1,6 +1,5 @@
 ---
 title: "Introduction"
-description: |
   
 author:
   - name: Hortense Couvreur
@@ -15,5 +14,9 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+Have you ever heard about endometriosis ? Endometriosis is a benign illness but incurable. At the moment, we do not know about origin and cure. 
+I decided to take “Endometriosis” as subject because I have heard a lot about it in the last few months. I realised that it is a taboo subject and many women around me suffer from it. So I wanted to know more about this disease: why does it take so long to diagnose, why is there no cure? Why is it so taboo? So many questions that I will try to answer through this work. 
+I want to be able to explain what this disease is, what it involves and try to make as many people as possible aware of endometriosis. 
+You are not alone, Girls. Boys are welcome too, educate yourself.
 
 

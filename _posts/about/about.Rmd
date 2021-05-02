@@ -5,10 +5,13 @@ author:
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
+What’s up guys ? Welcome to my new blog ! 
+First of all, I am going to introduce myself. I am Hortense Couvreur, 21years old. I am already at University in BAC2 biology (2020-2021).
+
+Here, you will found articles on endometriosis. What do you know about this illness ? Comment and share your experience. 
 
 
 Hortense Couvreur - BAC2 Biology 
-
 
 Mr Devilez - 2020/2021
 

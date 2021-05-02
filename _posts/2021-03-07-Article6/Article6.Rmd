@@ -1,6 +1,6 @@
 ---
 title: "Article 6 : Endometriosis inquiry underlines NI wainting times"
-description: |
+description: Postcode lottery to have an appointment.
   
 author:
   - name: Hortense Couvreur
@@ -14,6 +14,8 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+![](image/article6.jpeg)
 
 **I. Source of the article**
 
